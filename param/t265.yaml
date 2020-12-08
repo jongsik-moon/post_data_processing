@@ -1,0 +1,14 @@
+
+Extrinsic:
+  delX: 5.4
+  delY: 1.0
+  delZ: 0.0
+
+  delRoll: 0.0
+  delPitch: 0.0
+  delYaw: 0.16
+
+  minX: -0.3
+  maxX: 0.1
+
+  path: "/home/jongsik/indoor-mapping_ws/dataset/octomap_csv/t265.csv"

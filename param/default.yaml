@@ -1,0 +1,14 @@
+
+Extrinsic:
+  delX: 4.8
+  delY: 1.4
+  delZ: 0.0
+
+  delRoll: 1.6
+  delPitch: 0.2
+  delYaw: 2.84
+
+  minX: -300
+  maxX: 300
+
+  path: "/home/jongsik/indoor-mapping_ws/dataset/octomap_csv/legoloam.csv"

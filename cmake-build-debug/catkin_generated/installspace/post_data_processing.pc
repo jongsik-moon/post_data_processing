@@ -1,0 +1,8 @@
+prefix=/usr/local
+
+Name: post_data_processing
+Description: Description of post_data_processing
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
